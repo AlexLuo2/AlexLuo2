@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexLuo2
 - 👀 I’m interested in building my own blog website.
-- 🌱 I’m currently learning and practicing python code in the area of machine learning. I am also studying R language and SQL.
+- 🌱 I’m currently learning and practicing python codes in the area of machine learning. I am also studying R language and SQL.
 - 📫 How to reach me : 236226413@qq.com
 
 <!---
